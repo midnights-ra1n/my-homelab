@@ -1,4 +1,4 @@
-# NOTE: THIS REPOSITORY IS NOT UPDATED SINCE APRIL 2025. UPDATED SOON FOR THE END OF THE 2025 YEAR OR BEGIN 2026. FOR NOW, THE UPDATED HOMELAB IS AVAILABLE [HERE](https://ngrt.fr/homelab)
+# THIS REPO IS IN REBUILDING. FOR NOW, THE UPDATED HOMELAB IS AVAILABLE [HERE](https://ngrt.fr/homelab)
 
 ![banner](https://github.com/ngrt-sh/my-homelab/blob/main/homelab.png?raw=true)
 
