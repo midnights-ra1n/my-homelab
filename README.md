@@ -1,3 +1,5 @@
+# Repo in curse of updating. Some informations may be miss dated or missing.
+
 ![banner](/homelab.png)
 
 # my-homelab
