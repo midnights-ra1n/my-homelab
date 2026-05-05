@@ -30,3 +30,7 @@ My homelab's first objective is to find free, self-hosted alternatives to the bi
 
 # 🔌  Why I have started to build my homelab?
 I started my homelab because I wanted to learn more about what it was, and at first I just wanted to make it a simple storage server, but in the end it turned into a “server of everything”. I did all this to be digitally sovereign and to protect my privacy.
+
+# ✈️ Roadmap
+
+Roadmap can be found [here](/roadmap.md)
