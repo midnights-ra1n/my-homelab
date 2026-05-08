@@ -1,5 +1,7 @@
 # Repo in curse of updating. Some informations may be miss dated or missing.
 
+> Wiki info: I plan to make this repository a Wiki as well.
+
 ![banner](/homelab.png)
 
 # my-homelab
