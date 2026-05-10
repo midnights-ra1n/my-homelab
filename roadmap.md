@@ -12,6 +12,8 @@ This is a homelab road map where I register some things I might add it (buys, de
 
 - [ ] 8 or 10 TB External Hard Disk Drive
 
+- [ ] Ressell all my hardware  ("drizzy" Ryzen 5, Raspberry Pi) and buy instead mini PCs and UGreen NAS (2027-2028 planned)
+
 # Software deployments
 
 - [ ] Plakar Backup - a self-hosted backup tool
